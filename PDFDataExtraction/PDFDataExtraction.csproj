@@ -9,6 +9,8 @@
     <Company>JPossari</Company>
     <Description>Library for extracting data from PDF files</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/JuniorPossari/PDFDataExtraction</RepositoryUrl>
+    <Copyright>Apache 2.0 Open Source</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
